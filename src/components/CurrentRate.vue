@@ -32,7 +32,7 @@ export default {
       this.isModalActive = !this.isModalActive;
     },
     handleAvalableCcyChange(e) {
-      console.log(e.target.name);
+      // console.log(e.target.name);
       if (this.checkAvalableIncludes(e.target.name)) {
         //to remove item from local storage
       }
