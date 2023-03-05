@@ -1,35 +1,32 @@
-# currency-exchange-app
+# Currency converter
 
-This template should help get you started developing with Vue 3 in Vite.
+[demo](https://artemteslenko.github.io/currency-converter/)
 
-## Recommended IDE Setup
+## Table of Contents
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+- [General Info](#general-information)
+- [Technologies Used](#technologies-used)
+- [Screenshots](#screenshots)
+- [Contact](#contact)
 
-## Customize configuration
+## General Information
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+- A simple currency converter application. The user can switch between different currencies and see the exchange to the latest update.
 
-## Project Setup
+## Technologies Used
 
-```sh
-npm install
-```
+- HTML
+- CSS
+- JavaScript
+- Vue
 
-### Compile and Hot-Reload for Development
+## Screenshots
 
-```sh
-npm run dev
-```
+-Get converted sum
+![Get converted](./screens/main.png)
+-Change current reate table list
+![Change list](./screens/choose-current.png)
 
-### Compile and Minify for Production
+## Contact
 
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+Created by [Artem Teslenko](https://t.me/artemTeslenkoW126) - feel free to contact me!
